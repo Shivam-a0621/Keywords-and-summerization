@@ -1,0 +1,87 @@
+2024-10-12 03:16:52,673 - INFO - sucessfully downloaded file document1.pdf
+2024-10-12 03:16:54,277 - INFO - sucessfully downloaded file document2.pdf
+2024-10-12 03:16:54,981 - INFO - sucessfully downloaded file document3.pdf
+2024-10-12 03:16:55,422 - INFO - sucessfully downloaded file document4.pdf
+2024-10-12 03:17:01,724 - INFO - sucessfully downloaded file document5.pdf
+2024-10-12 03:17:02,042 - INFO - sucessfully downloaded file document6.pdf
+2024-10-12 03:17:02,355 - INFO - sucessfully downloaded file document7.pdf
+2024-10-12 03:17:02,637 - INFO - sucessfully downloaded file document8.pdf
+2024-10-12 03:17:02,912 - INFO - sucessfully downloaded file document9.pdf
+2024-10-12 03:17:03,686 - INFO - sucessfully downloaded file document10.pdf
+2024-10-12 03:17:04,021 - INFO - sucessfully downloaded file document11.pdf
+2024-10-12 03:17:04,306 - INFO - sucessfully downloaded file document12.pdf
+2024-10-12 03:17:04,613 - INFO - sucessfully downloaded file document13.pdf
+2024-10-12 03:17:04,898 - INFO - sucessfully downloaded file document14.pdf
+2024-10-12 03:17:05,222 - INFO - sucessfully downloaded file document15.pdf
+2024-10-12 03:17:05,683 - INFO - sucessfully downloaded file document16.pdf
+2024-10-12 03:17:05,783 - ERROR - Error in downloading document17.pdf : HTTPSConnectionPool(host='ijtr.nic.in', port=443): Max retries exceeded with url: /Circular%20Orders%20(Supplement).pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)')))
+2024-10-12 03:17:09,605 - INFO - sucessfully downloaded file document18.pdf
+2024-10-12 03:17:14,542 - INFO - Successfully processed downloads\document12.pdf
+2024-10-12 03:17:15,686 - INFO - Successfully processed downloads\document14.pdf
+2024-10-12 03:17:18,406 - INFO - Successfully processed downloads\document5.pdf
+2024-10-12 03:17:21,596 - INFO - Successfully processed downloads\document11.pdf
+2024-10-12 03:17:24,152 - INFO - Successfully processed downloads\document18.pdf
+2024-10-12 03:17:26,218 - INFO - Successfully processed downloads\document1.pdf
+2024-10-12 03:17:26,479 - INFO - Successfully processed downloads\document15.pdf
+2024-10-12 03:17:30,633 - INFO - Successfully processed downloads\document13.pdf
+2024-10-12 03:17:30,669 - INFO - Successfully processed downloads\document8.pdf
+2024-10-12 03:17:31,301 - INFO - Successfully processed downloads\document6.pdf
+2024-10-12 03:17:32,014 - INFO - Successfully processed downloads\document16.pdf
+2024-10-12 03:17:32,947 - INFO - Successfully processed downloads\document7.pdf
+2024-10-12 03:17:33,085 - INFO - Successfully processed downloads\document9.pdf
+2024-10-12 03:17:51,954 - INFO - Successfully processed downloads\document10.pdf
+2024-10-12 03:18:09,781 - INFO - Successfully processed downloads\document4.pdf
+2024-10-12 03:18:10,643 - INFO - Successfully processed downloads\document2.pdf
+2024-10-12 03:18:17,819 - INFO - Successfully processed downloads\document3.pdf
+2024-10-12 03:18:17,993 - INFO - Pushed the data to mongodb
+2024-10-12 03:18:21,551 - INFO - suucess extract_keywords
+2024-10-12 03:19:50,188 - INFO - Summerized Successfully
+2024-10-12 03:19:51,164 - INFO - keyword and summary updated for document12.pdf
+2024-10-12 03:19:56,502 - INFO - suucess extract_keywords
+2024-10-12 03:20:08,845 - INFO - Summerized Successfully
+2024-10-12 03:20:34,471 - INFO - keyword and summary updated for document14.pdf
+2024-10-12 03:20:37,321 - INFO - suucess extract_keywords
+2024-10-12 03:20:46,017 - INFO - Summerized Successfully
+2024-10-12 03:20:46,068 - INFO - keyword and summary updated for document5.pdf
+2024-10-12 03:20:57,821 - INFO - suucess extract_keywords
+2024-10-12 03:21:54,319 - INFO - Summerized Successfully
+2024-10-12 03:21:54,332 - INFO - keyword and summary updated for document11.pdf
+2024-10-12 03:22:14,937 - INFO - suucess extract_keywords
+2024-10-12 03:23:10,091 - INFO - Summerized Successfully
+2024-10-12 03:23:10,095 - INFO - keyword and summary updated for document18.pdf
+2024-10-12 03:23:13,774 - INFO - suucess extract_keywords
+2024-10-12 03:23:24,427 - INFO - Summerized Successfully
+2024-10-12 03:23:24,463 - INFO - keyword and summary updated for document1.pdf
+2024-10-12 03:23:30,984 - INFO - suucess extract_keywords
+2024-10-12 03:23:43,345 - INFO - Summerized Successfully
+2024-10-12 03:23:43,368 - INFO - keyword and summary updated for document15.pdf
+2024-10-12 03:23:49,978 - INFO - suucess extract_keywords
+2024-10-12 03:23:58,711 - INFO - Summerized Successfully
+2024-10-12 03:23:58,713 - INFO - keyword and summary updated for document13.pdf
+2024-10-12 03:24:01,848 - INFO - suucess extract_keywords
+2024-10-12 03:24:08,260 - INFO - Summerized Successfully
+2024-10-12 03:24:08,274 - INFO - keyword and summary updated for document8.pdf
+2024-10-12 03:24:15,144 - INFO - suucess extract_keywords
+2024-10-12 03:24:22,015 - INFO - Summerized Successfully
+2024-10-12 03:24:22,018 - INFO - keyword and summary updated for document6.pdf
+2024-10-12 03:24:31,008 - INFO - suucess extract_keywords
+2024-10-12 03:24:36,526 - INFO - Summerized Successfully
+2024-10-12 03:24:36,529 - INFO - keyword and summary updated for document16.pdf
+2024-10-12 03:24:40,293 - INFO - suucess extract_keywords
+2024-10-12 03:24:46,050 - INFO - Summerized Successfully
+2024-10-12 03:24:46,054 - INFO - keyword and summary updated for document7.pdf
+2024-10-12 03:24:51,111 - INFO - suucess extract_keywords
+2024-10-12 03:24:58,030 - INFO - Summerized Successfully
+2024-10-12 03:24:58,032 - INFO - keyword and summary updated for document9.pdf
+2024-10-12 03:25:14,235 - INFO - suucess extract_keywords
+2024-10-12 03:25:20,291 - INFO - Summerized Successfully
+2024-10-12 03:25:20,297 - INFO - keyword and summary updated for document10.pdf
+2024-10-12 03:25:46,132 - INFO - suucess extract_keywords
+2024-10-12 03:25:51,954 - INFO - Summerized Successfully
+2024-10-12 03:25:51,967 - INFO - keyword and summary updated for document4.pdf
+2024-10-12 03:26:12,907 - INFO - suucess extract_keywords
+2024-10-12 03:26:22,777 - INFO - Summerized Successfully
+2024-10-12 03:26:22,807 - INFO - keyword and summary updated for document2.pdf
+2024-10-12 03:26:57,961 - INFO - suucess extract_keywords
+2024-10-12 03:27:07,854 - INFO - Summerized Successfully
+2024-10-12 03:27:07,858 - INFO - keyword and summary updated for document3.pdf
