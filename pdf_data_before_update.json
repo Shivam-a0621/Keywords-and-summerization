@@ -1,0 +1,87 @@
+[
+    {
+        "file_name": "document12.pdf",
+        "file_size": 268943,
+        "num_pages": 7
+    },
+    {
+        "file_name": "document14.pdf",
+        "file_size": 393198,
+        "num_pages": 11
+    },
+    {
+        "file_name": "document5.pdf",
+        "file_size": 335126,
+        "num_pages": 1
+    },
+    {
+        "file_name": "document11.pdf",
+        "file_size": 551321,
+        "num_pages": 14
+    },
+    {
+        "file_name": "document18.pdf",
+        "file_size": 13767577,
+        "num_pages": 24
+    },
+    {
+        "file_name": "document1.pdf",
+        "file_size": 650025,
+        "num_pages": 11
+    },
+    {
+        "file_name": "document15.pdf",
+        "file_size": 502052,
+        "num_pages": 13
+    },
+    {
+        "file_name": "document13.pdf",
+        "file_size": 471370,
+        "num_pages": 12
+    },
+    {
+        "file_name": "document8.pdf",
+        "file_size": 298845,
+        "num_pages": 8
+    },
+    {
+        "file_name": "document6.pdf",
+        "file_size": 468975,
+        "num_pages": 13
+    },
+    {
+        "file_name": "document16.pdf",
+        "file_size": 234382,
+        "num_pages": 41
+    },
+    {
+        "file_name": "document7.pdf",
+        "file_size": 468890,
+        "num_pages": 12
+    },
+    {
+        "file_name": "document9.pdf",
+        "file_size": 310088,
+        "num_pages": 8
+    },
+    {
+        "file_name": "document10.pdf",
+        "file_size": 2126778,
+        "num_pages": 54
+    },
+    {
+        "file_name": "document4.pdf",
+        "file_size": 1324200,
+        "num_pages": 102
+    },
+    {
+        "file_name": "document2.pdf",
+        "file_size": 5323822,
+        "num_pages": 131
+    },
+    {
+        "file_name": "document3.pdf",
+        "file_size": 2413611,
+        "num_pages": 402
+    }
+]
